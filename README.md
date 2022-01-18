@@ -1,2 +1,2 @@
 # planilhaAHP
-Planilha AHP
+Arquivos demonstrando a aplicação do método AHP
